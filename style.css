@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+span{
+    color: rgb(19, 147, 36);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+#link{
+    text-decoration: none;
+    background-color: rgb(29, 146, 11);
+    padding: 8px 10px ;
+    font-weight: 700;
+    color: rgb(217, 227, 228);
+    border-radius: 1px;
+}
+.top{
+    background-image: url("personal-website/biography-bg.png");
+    height: 500px;
+}
+.lol{
+    background-image: url("top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.half-width img{
+    width: 100%;
+    height: 400px;
+}
+#majh{
+    text-align: center;
+}
+.last-sec{
+    height: 400px;
+}
+.row{
+    margin: 10px;
+    margin-left: 100px;
+}
+.clum{
+    float: left;
+    width: 30%;
+    padding: 4px;
+    margin-left: 6px;
+}
+.last{
+    width: 1200px;
+}
+.hh{
+    text-align: center;
+}
+.linkk{
+    text-decoration: none;
+    border: 10PX solid white;
+    background-color: rgb(151, 46, 58);
+    width: 500px;
+    text-align: center;
+    float: right;
+    margin-right: 300px;
+}
+#lastp{
+    font-weight: 700;
+}
+#lops{
+    margin-left: 10px;
+}
